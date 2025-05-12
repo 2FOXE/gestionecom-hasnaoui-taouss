@@ -1,3 +1,3 @@
 # Gestion E-Commerce - Hasnaoui Taouss
 
-Projet de synthèse réalisé dans le cadre de la gestion d’un site hôtelier avec théâtre et salle de conférence.
+Projet de synthèse pour la gestion d’un hôtel, théâtre et salle de conférence.
